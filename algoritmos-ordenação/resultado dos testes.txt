@@ -1,0 +1,5 @@
+realizei os testes utilizando o insertionSort e o MergeSort
+o que pude observar é que quando se tem um fluxo de dados menor, o
+insertionSort se prova mais eficaz. Já quando o fluxo de dados é muito
+grande como no caso de 20000 dados, o MergeSort tem um desempenho
+consideravelmente maior.
